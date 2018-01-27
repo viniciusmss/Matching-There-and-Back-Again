@@ -1,5 +1,3 @@
-# This is a replication file for (article name)
-
 set.seed(12345)
 rm(list=ls())
 library(Matching)
